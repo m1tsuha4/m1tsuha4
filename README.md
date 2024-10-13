@@ -2,13 +2,13 @@
 
 Greetings, My name is **Iqbal Defri Prasetya**.
 
-I am an **Android Developer**
+I am an **Backend Developer**
 
-I am currently diving into my passion, which is Mobile Development.
+I am currently diving into my passion, which is Backend Development.
 
 Let's check, maybe I have some repositories that might interest you.
 
-If you want to get to know me, you can pay a visit to my LinkedIn account [Linkedin](https://www.linkedin.com/in/fajar-alif-riyandi-82771a246/).  
+If you want to get to know me, you can pay a visit to my LinkedIn account [Linkedin](https://www.linkedin.com/in/iqbal-defri-prasetya-24a746128/).  
 <p align="left">
 <a href="https://github.com/m1tsuha4">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m1tsuha4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

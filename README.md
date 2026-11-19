@@ -53,7 +53,7 @@ I build scalable APIs, secure payment integrations, SaaS platforms, and IoT syst
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=m1tsuha4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m1tsuha4&layout=compact&langs_count=8&theme=algolia" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=m1tsuha4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1tsuha4&layout=compact&langs_count=8&theme=algolia" alt="Top languages" />
 
 </div>
